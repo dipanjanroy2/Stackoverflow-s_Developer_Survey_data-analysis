@@ -1,5 +1,5 @@
 # Write-A-Data-Science-Blog-Post
-Project in Data Scientist Nanodegree of Udacity
+Project On Data Scientist Nanodegree of Udacity
 
 ### Table of Contents
 
@@ -11,25 +11,28 @@ Project in Data Scientist Nanodegree of Udacity
 
 ## Installation <a name="installation"></a>
 
+You will need to download Stackoverflow’s 2017 and 2018 Annual Developer Survey and put in specific folders. You can find the data to download here.[here](https://insights.stackoverflow.com/survey)
+
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+For this project, I was interestested in using Stack Overflow data from 2017 AND 2018  data to better understand:
 
-1. As a programmer, should I go to work in the western world (e.g. America, Europe, etc.) or remain in the eastern world (e.g. India, China, etc.)?
-2. What is the salary difference in the western world and in the eastern world?
-3. How are the programmers satisfying about their job between these two sides of the world?
-4. Are there more jobs opportunity in the western world than that in the eastern world?
+1.What are the most used programming languages in Brazil?
+2.What are the most wanted programming languages in Brazil?
+3.How does programming languages used at work relates with programming languages people want to learn?
 
 ## File Descriptions <a name="files"></a>
 
-The notebook available here showcases work related to the above questions.  
+write a blog post.ipynb: Notebook containing the data analysis.
+survey_results_public.csv: Stackoverflow's 2017 Annual Developer Survey data.
+survey_results_public18.csv: Stackoverflow's 2018 Annual Developer Survey data.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@joshua.chyeung/go-to-the-western-world-if-you-are-a-programmer-1ccfac7e413a).
+The main findings of the code can be found at the post available [here](https:).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
