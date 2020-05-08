@@ -25,9 +25,11 @@ For this project, I was interestested in using Stack Overflow data from 2017 AND
 
 ## File Descriptions <a name="files"></a>
 
-write a blog post.ipynb: Notebook containing the data analysis.
-survey_results_public.csv: Stackoverflow's 2017 Annual Developer Survey data.
-survey_results_public18.csv: Stackoverflow's 2018 Annual Developer Survey data.
+*write a blog post.ipynb: Notebook containing the data analysis.
+
+*survey_results_public.csv: Stackoverflow's 2017 Annual Developer Survey data.
+
+*survey_results_public18.csv: Stackoverflow's 2018 Annual Developer Survey data.
 
 ## Results<a name="results"></a>
 
