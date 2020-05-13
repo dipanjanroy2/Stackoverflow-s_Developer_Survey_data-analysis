@@ -33,7 +33,7 @@ For this project, I was interestested in using Stack Overflow data from 2017 AND
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https:).
+The main findings of the code can be found at the post available [here](https://medium.com/@dipanjanoffcial369/which-is-the-best-programming-language-to-learn-in-india-819cf31da547).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
